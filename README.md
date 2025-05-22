@@ -11,6 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1153-product-sales-analysis-i](https://github.com/pottq577/algorithm/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/pottq577/algorithm/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/pottq577/algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pottq577/algorithm/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/pottq577/algorithm/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pottq577/algorithm/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
